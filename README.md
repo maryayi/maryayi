@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<!--
-**maryayi/maryayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mahdi Aryayi a Front-End engineer who:
 
-Here are some ideas to get you started:
+- 🔭 Is coding mostly with:
+	- JavaScript
+	- TypeScript
+	- HTML/CSS
+	- SASS
+	- React.js 
+	- Redux
+	- Vue.js  
+	- git
+	- GNU/Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Is currently learning:
+	- Web3
+	- Docker
+	- Management
+
+- 💬 Ask me about:
+	- git
+	- regexp
+	- JavaScript
+	- React.js
+	- Vue
+
+- 📫 How to reach me:
+	- [Twitter](https://twitter.com/maryayi)
+	- [LinkedIn](https://linkedin.com/in/maryayi)
+
+
+[![Mahdi's github stats](https://github-readme-stats.vercel.app/api?username=maryayi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryayi)](https://github.com/anuraghazra/github-readme-stats)
+
